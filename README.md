@@ -41,7 +41,9 @@ Configuring new company roles to grant specific employees permission to handle d
 
 </p>
 <p>
-Configure Teams to group together employees from different departments
+Configure Teams to group employees from various departments who may be responsible for different areas of the company.
+
+
 </p>
 <br />
 
